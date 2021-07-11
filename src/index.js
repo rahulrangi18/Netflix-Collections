@@ -5,7 +5,7 @@ import "./index.css";
 import Sdata from "./Sdata";
 
 
-function ncard(val)
+const ncard=(val)=>
 {
   return (
     <Card
